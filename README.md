@@ -18,7 +18,7 @@ In essence, I am a tech enthusiast, eager to explore new challenges and driven t
 
 *   🌍  I'm based in Mexico City, Mexico
 *   ✉️  You can contact me at [williamsjmzhdz@gmail.com](mailto:williamsjmzhdz@gmail.com)
-*   🚀  I'm currently working on [Cybergolden app](http://cybergolden-env-1.eba-ddjdy69g.us-east-2.elasticbeanstalk.com/)
+*   🚀  I'm currently working on [Cybergolden ERP](http://cybergolden-env-1.eba-ddjdy69g.us-east-2.elasticbeanstalk.com/)
 *   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on Interesting Projects
 *   ⚡  If you play league add me: Levliam#10969 🎮😉### Skills 
