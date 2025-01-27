@@ -16,11 +16,10 @@ Fluent in Spanish and proficient in English, I am well-prepared to engage in div
 
 In essence, I am a tech enthusiast, eager to explore new challenges and driven to make a significant impact in the world of digital technology
 
-*   🌍  I'm based in Mexico City, Mexico
-*   ✉️  You can contact me at [williamsjmzhdz@gmail.com](mailto:williamsjmzhdz@gmail.com)
-*   🚀  I'm currently working on [Cybergolden ERP](http://cybergolden-env-1.eba-ddjdy69g.us-east-2.elasticbeanstalk.com/)
-*   🧠  I'm learning Java
-*   🤝  I'm open to collaborating on Interesting Projects
+*   🌍  I'm based in State of Mexico, Mexico
+*   ✉️  You can contact me at [francisco.williams.jmz.hdz@gmail.com](mailto:francisco.williams.jmz.hdz@gmail.com)
+*   👨🏻‍💻  I'm a Java Developer
+*   🫱🏻‍🫲🏻  I'm open to collaborating on Interesting Projects
 *   ⚡  If you play league add me: Levliam#10969 🎮😉
 
 
